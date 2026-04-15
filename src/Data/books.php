@@ -7,7 +7,7 @@ return [
         'author' => 'Robert C. Martin',
         'category' => 'Programming',
         'year' => 2008,
-        'quantity' => 5
+        'quantity' => 10
     ],
     [
         'id' => 2,
